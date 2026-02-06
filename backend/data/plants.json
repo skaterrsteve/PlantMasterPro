@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "1",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Acer Palmatum",
+    "commonName": "Japanese Maple",
+    "popularCultivars": "Bloodgood",
+    "family": "",
+    "origin": "",
+    "classifications": "",
+    "shape": "",
+    "size": "",
+    "growthRate": "",
+    "density": "",
+    "texture": "",
+    "landscapeUses": "",
+    "lightRequirements": "",
+    "soilNeeds": "",
+    "waterNeeds": "",
+    "sunsetZone": "",
+    "usdaZone": "",
+    "hardyTo": "",
+    "tolerances": "",
+    "flowerInfo": "",
+    "fruitInfo": "",
+    "barkTrunk": "",
+    "rootType": "",
+    "pruningNeeds": "",
+    "pestsAndDiseases": "",
+    "plantLocation": "",
+    "notes": "",
+    "image": "https://via.placeholder.com/400x400.png?text=New+Plant"
+  }
+]
