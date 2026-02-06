@@ -1,0 +1,80 @@
+import React, { useState, useEffect } from 'react';
+import axios from 'axios';
+import { useParams } from 'react-router-dom';
+
+function PlantDetails() {
+  const [plant, setPlant] = useState(null);
+  const { id } = useParams();
+
+  useEffect(() => {
+    axios.get(`http://localhost:3001/api/plants/${id}`)
+      .then(response => {
+        setPlant(response.data);
+      })
+      .catch(error => {
+        console.error('Error fetching plant details:', error);
+      });
+  }, [id]);
+
+  if (!plant) {
+    return <div>Loading...</div>;
+  }
+
+  return (
+    <div className="card my-4">
+      <img src={plant.image} className="card-img-top" alt={plant.commonName || 'Plant Image'} style={{width: '400px', height: '400px', margin: 'auto', objectFit: 'cover'}} />
+      <div className="card-body">
+        <h1 className="card-title">{plant.commonName || 'N/A'}</h1>
+        {plant.botanicalName && <h5 className="card-subtitle mb-2 text-muted">{plant.botanicalName}</h5>}
+        
+        <h2 className="mt-4">Plant Details</h2>
+        <ul className="list-group list-group-flush">
+          {plant.landscapeCategory && <li className="list-group-item"><strong>Landscape Category:</strong> {plant.landscapeCategory}</li>}
+          {plant.family && <li className="list-group-item"><strong>Family:</strong> {plant.family}</li>}
+          {plant.origin && <li className="list-group-item"><strong>Origin:</strong> {plant.origin}</li>}
+          {plant.classifications && <li className="list-group-item"><strong>Classifications:</strong> {plant.classifications}</li>}
+          {plant.shape && <li className="list-group-item"><strong>Shape:</strong> {plant.shape}</li>}
+          {plant.size && <li className="list-group-item"><strong>Size:</strong> {plant.size}</li>}
+          {plant.growthRate && <li className="list-group-item"><strong>Growth Rate:</strong> {plant.growthRate}</li>}
+          {plant.density && <li className="list-group-item"><strong>Density:</strong> {plant.density}</li>}
+          {plant.texture && <li className="list-group-item"><strong>Texture:</strong> {plant.texture}</li>}
+          {plant.landscapeUses && <li className="list-group-item"><strong>Landscape Uses:</strong> {plant.landscapeUses}</li>}
+          {plant.popularCultivars && <li className="list-group-item"><strong>Popular Cultivars:</strong> {plant.popularCultivars}</li>}
+        </ul>
+
+        <h2 className="mt-4">Care &amp; Environment</h2>
+        <ul className="list-group list-group-flush">
+          {plant.lightRequirements && <li className="list-group-item"><strong>Light Requirements:</strong> {plant.lightRequirements}</li>}
+          {plant.soilNeeds && <li className="list-group-item"><strong>Soil Needs:</strong> {plant.soilNeeds}</li>}
+          {plant.waterNeeds && <li className="list-group-item"><strong>Water Needs:</strong> {plant.waterNeeds}</li>}
+          {plant.sunsetZone && <li className="list-group-item"><strong>Sunset Zone:</strong> {plant.sunsetZone}</li>}
+          {plant.usdaZone && <li className="list-group-item"><strong>USDA Zone:</strong> {plant.usdaZone}</li>}
+          {plant.hardyTo && <li className="list-group-item"><strong>Hardy To:</strong> {plant.hardyTo}</li>}
+          {plant.tolerances && <li className="list-group-item"><strong>Tolerances:</strong> {plant.tolerances}</li>}
+        </ul>
+
+        <h2 className="mt-4">Characteristics</h2>
+        <ul className="list-group list-group-flush">
+          {plant.flowerInfo && <li className="list-group-item"><strong>Flower Info:</strong> {plant.flowerInfo}</li>}
+          {plant.fruitInfo && <li className="list-group-item"><strong>Fruit Info:</strong> {plant.fruitInfo}</li>}
+          {plant.barkTrunk && <li className="list-group-item"><strong>Bark/Trunk:</strong> {plant.barkTrunk}</li>}
+          {plant.rootType && <li className="list-group-item"><strong>Root Type:</strong> {plant.rootType}</li>}
+        </ul>
+        
+        <h2 className="mt-4">Maintenance &amp; Health</h2>
+        <ul className="list-group list-group-flush">
+          {plant.pruningNeeds && <li className="list-group-item"><strong>Pruning Needs:</strong> {plant.pruningNeeds}</li>}
+          {plant.pestsAndDiseases && <li className="list-group-item"><strong>Pest and Diseases:</strong> {plant.pestsAndDiseases}</li>}
+        </ul>
+
+        <h2 className="mt-4">Location &amp; Notes</h2>
+        <ul className="list-group list-group-flush">
+          {plant.plantLocation && <li className="list-group-item"><strong>Plant Location:</strong> {plant.plantLocation}</li>}
+          {plant.notes && <li className="list-group-item"><strong>Notes:</strong> {plant.notes}</li>}
+        </ul>
+      </div>
+    </div>
+  );
+}
+
+export default PlantDetails;

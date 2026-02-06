@@ -1,0 +1,7 @@
+1         node_modules
+   2         .env
+   3         tmp/
+   4         build/
+   5         dist/
+   6         .DS_Store
+   7         *.log
