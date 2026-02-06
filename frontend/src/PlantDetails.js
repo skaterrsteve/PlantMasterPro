@@ -7,7 +7,7 @@ function PlantDetails() {
   const { id } = useParams();
 
   useEffect(() => {
-    axios.get(`http://localhost:3001/api/plants/${id}`)
+    axios.get(`${process.env.REACT_APP_BACKEND_URL}/api/plants/${id}`)
       .then(response => {
         setPlant(response.data);
       })

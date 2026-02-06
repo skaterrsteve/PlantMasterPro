@@ -6,7 +6,7 @@ function PlantList() {
   const [plants, setPlants] = useState([]);
 
   useEffect(() => {
-    axios.get('http://localhost:3001/api/plants')
+    axios.get(`${process.env.REACT_APP_BACKEND_URL}/api/plants`)
       .then(response => {
         setPlants(response.data);
       })
