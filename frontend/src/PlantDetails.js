@@ -4,6 +4,9 @@ import { useParams } from 'react-router-dom';
 
 function PlantDetails() {
   const [plant, setPlant] = useState(null);
+  const [showReportForm, setShowReportForm] = useState(false);
+  const [reportText, setReportText] = useState('');
+  const [reportStatus, setReportStatus] = useState('');
   const { id } = useParams();
 
   useEffect(() => {
@@ -15,6 +18,29 @@ function PlantDetails() {
         console.error('Error fetching plant details:', error);
       });
   }, [id]);
+
+  const handleReportSubmit = (e) => {
+    e.preventDefault();
+    setReportStatus('submitting');
+    
+    axios.post(`${process.env.REACT_APP_BACKEND_URL}/api/reports`, {
+      plantId: id,
+      plantName: plant.commonName,
+      message: reportText
+    })
+    .then(response => {
+      setReportStatus('success');
+      setReportText('');
+      setTimeout(() => {
+        setShowReportForm(false);
+        setReportStatus('');
+      }, 3000);
+    })
+    .catch(error => {
+      console.error('Error submitting report:', error);
+      setReportStatus('error');
+    });
+  };
 
   if (!plant) {
     return <div>Loading...</div>;
@@ -67,11 +93,37 @@ function PlantDetails() {
         </ul>
 
         <div className="mt-5 pt-3 border-top text-center">
-          <p className="text-muted small">
-            Spot an error? <a href={`mailto:your-email@example.com?subject=Correction for ${plant.commonName} (ID: ${plant.id})&body=Please describe the error or missing information for ${plant.commonName}:`}>
-              Report incorrect information
-            </a>
-          </p>
+          {!showReportForm ? (
+            <p className="text-muted small">
+              Spot an error? <button className="btn btn-link btn-sm p-0 align-baseline" onClick={() => setShowReportForm(true)}>
+                Report incorrect information
+              </button>
+            </p>
+          ) : (
+            <div className="text-start mt-3 p-3 bg-light rounded">
+              <h6>Report an Error for {plant.commonName}</h6>
+              <form onSubmit={handleReportSubmit}>
+                <div className="mb-3">
+                  <textarea 
+                    className="form-control" 
+                    rows="3" 
+                    placeholder="Describe the error or missing information..."
+                    value={reportText}
+                    onChange={(e) => setReportText(e.target.value)}
+                    required
+                  ></textarea>
+                </div>
+                {reportStatus === 'success' && <div className="alert alert-success py-2 small">Report submitted! Thank you.</div>}
+                {reportStatus === 'error' && <div className="alert alert-danger py-2 small">Error submitting report. Please try again.</div>}
+                <div className="d-flex gap-2">
+                  <button type="submit" className="btn btn-success btn-sm" disabled={reportStatus === 'submitting'}>
+                    {reportStatus === 'submitting' ? 'Submitting...' : 'Submit Report'}
+                  </button>
+                  <button type="button" className="btn btn-secondary btn-sm" onClick={() => setShowReportForm(false)}>Cancel</button>
+                </div>
+              </form>
+            </div>
+          )}
         </div>
       </div>
     </div>
