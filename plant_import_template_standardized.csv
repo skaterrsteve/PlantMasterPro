@@ -114,8 +114,8 @@ landscapeCategory,botanicalName,commonName,family,isNative,size,growthRate,light
 ,Ajuga reptans,Carpet Bugle,Lamiaceae,No (Europe/Asia/Africa),"4-8 in tall, spreads indefinitely",Moderate to Fast,Full sun to full shade,Moderate,Zone 3-10,-35°F,Blue to purple spikes in spring,Nutlets,Carpet Bugle; aggressive groundcover.
 ,Aquilegia caerulea,Columbine 'Rose Star',Ranunculaceae,No (Rocky Mountains USA),"1.5-2 ft tall, 1 ft wide",Slow,Part shade to full sun,Medium (moist),Zone 3-8,-35°F,Large showy blue and white spurred flowers,Follicles,Colorado Columbine; state flower of Colorado.
 ,Aquilegia caerulea,Columbine 'Blue Star',Ranunculaceae,No (Rocky Mountains USA),"1.5-2 ft tall, 1 ft wide",Slow,Part shade to full sun,Medium (moist),Zone 3-8,-35°F,Large showy blue and white spurred flowers,Follicles,Colorado Columbine; state flower of Colorado.
-,Aquilegia chrysantha,Columbine 'Denver Gold,Ranunculaceae,No,2-3 ft,Moderate,Full sun to part shade,Medium,Zone 3-9,-35°F,Golden yellow flowers with long spurs,Follicles,Golden Columbine selection.
-,Aquilegia hybrida,Columbine 'Crimson Star',Ranunculaceae,No,1.5-2 ft,Moderate,Full sun to part shade,Medium,Zone 3-9,-35°F,Crimson red and white flowers,Follicles,Crimson Star Columbine.
+,Aquilegia chrysantha,Columbine 'Denver Gold,,,,,,,,,,,
+,Aquilegia hybrida,Columbine 'Crimson Star',,,,,,,,,,,
 ,Arbutus marina,Strawberry Tree,Ericaceae,No (Hybrid/Europe parents),25-50 ft tall and wide,Moderate,Full sun,Low (drought tolerant once established),Zone 7-9,15°F,Pinkish white urn-shaped clusters (year-round),Red strawberry-like berries; edible but bland,"Strawberry Tree; beautiful reddish bark, evergreen."
 ,Arctotheca calendula,Cape Dandelion,Asteraceae,No (South Africa),"1 ft tall, spreads indefinitely",Fast,Full sun,Low to Moderate,Zone 9-11,25°F,Yellow daisy-like flowers with dark centers,Achenes with fluffy wool,"Cape Dandelion; tough groundcover, can be invasive."
 ,Artemesia absinthium,Wormwood,Asteraceae,No (Eurasia/N Africa),2-3 ft tall and wide,Moderate,Full sun,Low to Medium,Zone 4-9,-30°F,Tiny inconspicuous yellowish-gray clusters,Small achenes,"Wormwood; bitter herb used in Absinthe, silvery foliage."
@@ -198,8 +198,8 @@ landscapeCategory,botanicalName,commonName,family,isNative,size,growthRate,light
 ,Rosa hybrid,Carpet Rose,Rosaceae,No (Garden Origin),3-4 ft tall and wide,Moderate,Full sun,Moderate (likes consistent moisture),Zone 5-10,-20°F,Clusters of showy pink roses,Rose hips,Carpet Rose; highly disease resistant groundcover rose.
 ,Rosa spp.,Lady Banks Rose,Rosaceae,No (Global distribution),3-20 ft (shrub or climber),Moderate to Fast,Full sun,Moderate,Zone 5-11,Varies by species,Large showy flowers in many colors,"Rose hips (edible, high Vitamin C)","Lady Banks/Knockout Rose; Banksiae is thornless, Knockout is disease resistant."
 ,Rosa spp.,'Knockout' Rose,Rosaceae,No (Global distribution),3-20 ft (shrub or climber),Moderate to Fast,Full sun,Moderate,Zone 5-11,Varies by species,Large showy flowers in many colors,"Rose hips (edible, high Vitamin C)","Lady Banks/Knockout Rose; Banksiae is thornless, Knockout is disease resistant."
-,Rosmarinus officinalis,'Majorca Pink' Rosemary,Lamiaceae,No,2-4 ft,Moderate,Full sun,Low,Zone 8-11,15°F,Pink flowers,N/A,Upright rosemary with pink blooms.
-,Rosmarinus officinalis,'Tall Culinary' Rosemary,Lamiaceae,No,4-6 ft,Moderate,Full sun,Low,Zone 8-11,15°F,Blue flowers,N/A,"Excellent for cooking, vigorous upright habit."
+,Rosmarinus officinalis,'Majorca Pink' Rosemary,,,,,,,,,,,
+,Rosmarinus officinalis,'Tall Culinary' Rosemary,,,,,,,,,,,
 ,Salvia chamaednyoides,'Marine Blue' Sage,Lamiaceae,No (North-central Mexico),"1-2 ft tall, 2-4 ft wide",Moderate,Full sun to part shade,Low (drought tolerant),Zone 7-10,10°F,Bright sky blue flower spikes,Nutlets,Marine Blue Sage; striking silvery-grey foliage.
 ,Salvia elegans,Pineapple Sage,Lamiaceae,No (Mexico/Guatemala),"3-5 ft tall, 3-4 ft wide",Fast,Full sun,Moderate,Zone 8-11,15°F to 20°F,Tubular scarlet red flowers (late season),None,Pineapple Sage; leaves have a distinct pineapple scent.
 ,Salvia greggii,Nuevo Leon,Lamiaceae,No (Texas/Mexico),2-3 ft tall and wide,Moderate,Full sun,Low,Zone 6-9,0°F to 10°F,Small tubular flowers in many colors (red/pink/white),Nutlets,Autumn Sage; long-blooming and very tough.
@@ -240,68 +240,68 @@ landscapeCategory,botanicalName,commonName,family,isNative,size,growthRate,light
 ,Valeriana officinalis,Valerian,Caprifoliaceae,No (Europe/Asia),"3-5 ft tall, 2-4 ft wide",Medium to Fast,Full sun to part shade,Moderate,Zone 4-9,-15°F,Tiny fragrant white or pale pink umbels,Winged seeds,"Valerian; roots used as sedative, uniquely scented flowers."
 ,Verbascum chaixii,Mullein 'Wedding Candles',Scrophulariaceae,No (Europe),"2-3 ft tall, 1-2 ft wide",Moderate,Full sun,Low,Zone 5-9,-10°F,Spikes of yellow flowers with purple centers,Capsules,Nettle-leaved Mullein; Wedding Candles has pure white spikes.
 ,Vitis spp.,Granache,Vitaceae,No (Global Hybrid),20-30 ft (climbing vine),Fast,Full sun,Moderate (drought tolerant established),Zone 6-10,0°F to 10°F,Tiny greenish clusters,Grapes; edible fruit in large clusters,Grape Vine; Granache is a popular wine grape variety.
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+,,'Fiesta' Table Grape,,,,,,,,,,,
+,,Green Globe Artichoke,Asteraceae,No (Mediterranean),3-5 ft tall and wide,Medium,Full sun,Medium (prefers consistent moisture),Zone 7-11,10°F (with mulch),Large edible buds; purple thistle-like flowers if left,N/A (edible flower bud),Green Globe Artichoke; classic heirloom variety.
+,,Rue,,,,,,,,,,,
 ,,Succulent bowls,Various (Succulents),Varies,Varies by container,Moderate,Full sun to bright indirect light,Low (dry between waterings),Zone 9-11 (typically),32°F (protect from frost),Varies by species,Varies by species,Mixed succulent arrangements; require excellent drainage.
 ,Aeonium spp.,Aeonium,Crassulaceae,No (Canary Islands/Africa),1-3 ft tall depending on species,Moderate,Full sun to partial shade,"Low (winter grower, dry summer)",Zone 9-11,25°F to 30°F,Pyramidal clusters of small star flowers,N/A,Tree Houseleek; rosette-forming succulents on woody stems.
 ,Bulbine bulbosa,Bulbine,Asphodelaceae,No (Australia),"1-2 ft tall, 1 ft wide",Moderate,Full sun,Moderate,Zone 8-11,15°F,Fragrant yellow flowers with hairy stamens,Small capsules,Bulbine Lily; tufted grass-like succulent foliage.
 ,Cotyledon orbiculata,Lady Fingers,Crassulaceae,No (South Africa),"2-3 ft tall, 2 ft wide",Slow to Moderate,Full sun,Low,Zone 9-11,25°F,Pendent orange-red bell-shaped flowers,N/A,Pig's Ear; thick fleshy silver-grey leaves.
 ,Curio repens,Blue Chalksticks,Asteraceae,No (South Africa),"8-12 in tall, 2-3 ft spread",Slow (creeping),Full sun to partial shade,Low,Zone 9-11,25°F,Small white/pinkish pompom flowers,Achenes,Blue Chalksticks; intense silvery-blue cylindrical leaves.
 ,Echevaria spp,Echevaria,Crassulaceae,No (Mexico/Central America),4-12 in wide rosettes,Slow,Full sun to part shade,Low,Zone 9-11,25°F to 32°F,Arching stalks with pink/orange/yellow bells,N/A,Echeveria (spelled Echevaria in CSV); popular rose-shaped succulents.
-,Echevaria spp.,Cubic Frost',Crassulaceae,No,6-8 in,Slow,Full sun to part shade,Low,Zone 9-11,30°F,Bell-shaped flowers,N/A,Uniquely ruffled silver-lilac leaves.
+,Echevaria spp.,Cubic Frost',,,,,,,,,,,
 ,Graptopetalum paraguayense,Ghost-Plant,Crassulaceae,No (Mexico),"8-12 in tall, 2-3 ft spread",Vigorous,Full sun to light shade,Low,Zone 8-11,15°F to 20°F,Star-shaped white flowers with red spots,N/A,Ghost Plant; leaves fall off easily and root to form new plants.
-,Graptosedum x,Graptosedum 'California Sunset',Crassulaceae,No,6-12 in,Moderate,Full sun to light shade,Low,Zone 9-11,25°F,White flowers,N/A,Orange-pink foliage intensifies in sun.
-,Graptosedum x,Ghosty',Crassulaceae,No,6-12 in,Moderate,Full sun to light shade,Low,Zone 9-11,25°F,Yellow flowers,N/A,"Pale grey-blue leaves, very hardy."
-,Graptosedum x,Graptosedum 'Vera Higgins',Crassulaceae,No,6 in,Moderate,Full sun to light shade,Low,Zone 9-11,25°F,Yellow flowers,N/A,Deep reddish-bronze foliage.
+,Graptosedum x,Graptosedum 'California Sunset',,,,,,,,,,,
+,Graptosedum x,Ghosty',,,,,,,,,,,
+,Graptosedum x,Graptosedum 'Vera Higgins',,,,,,,,,,,
 ,Sedum confusum,Mexican Stonecrop,Crassulaceae,No (Mexico),"6-12 in tall, spreads 2 ft",Moderate (mat-forming),Full sun to part shade,Low to Moderate,Zone 7-10,10°F,Bright yellow star-like clusters,N/A,"Mexican Stonecrop; glossy green leaves, very adaptable."
 ,Sedum rubrotinctum,Pork and Beans,Crassulaceae,No (Mexico Hybrid),"6-8 in tall, 1-2 ft spread",Moderate,Full sun,Low,Zone 9-11,20°F,Yellow star-shaped flowers,N/A,Pork and Beans; leaves turn bright red in sun/cool weather.
 ,Sedum telphium,'Autumn Joy' Sedum,Crassulaceae,No (Eurasia),1.5-2 ft tall and wide,Medium,Full sun,Low to Moderate,Zone 3-9,-20°F,Flat-topped rosy-pink clusters (Autumn Joy),Dry seed heads (provide winter interest),"Autumn Joy Sedum; drought tolerant, attracts butterflies."
 ,Arugula,Uber,Brassicaceae,No (Mediterranean),1-2 ft tall,Fast (4-6 weeks to harvest),Full sun to part shade,Medium,Annual,25°F,Small white/yellow flowers,Seed pods (siliques),"Uber Arugula; peppery salad green, easy to grow."
 ,Blended Greens,Mesclun,Varies (Mixed),No (Provence Concept),2-6 in (harvested young),Fast,Full sun to part shade,Medium,Annual,28°F,N/A (harvested before bloom),N/A,Blended Greens; a mix of young lettuces and herbs.
-,Bok Choy,Joi Choi,Brassicaceae,No,1-2 ft,Fast,Full sun to part shade,Medium,Annual,25°F,Yellow,N/A,Bok Choy with heavy white stems.
+,Bok Choy,Joi Choi,,,,,,,,,,,
 ,Broccoli,Green Magic,Brassicaceae,No (Mediterranean),2-3 ft tall and wide,Fast (60-90 days),Full sun,Medium (prefers consistent moisture),Annual,25°F,Edible dark green heads; yellow flowers if bolted,Silique fruits,Green Magic Broccoli; highly heat tolerant variety.
 ,Broccoli,Calabrese,Brassicaceae,No (Italy),"2-3 ft tall, 1-2 ft wide",Fast,Full sun,Medium,Annual,25°F,Edible green heads; yellow flowers if bolted,Silique fruits,Calabrese Broccoli; classic heirloom variety.
-,Broccoli,De Cicco,Brassicaceae,No,2-3 ft,Fast,Full sun,Medium,Annual,25°F,Green heads,N/A,Reliable heirloom broccoli.
+,Broccoli,De Cicco,,,,,,,,,,,
 ,Broccoli,Purple Sprouting,Brassicaceae,No (Europe),2-3 ft tall,Moderate,Full sun,Medium,Annual,15°F to 20°F,Small purple edible heads,N/A,Purple Sprouting Broccoli; extremely cold hardy.
 ,Brussels Sprouts,Rubine,Brassicaceae,No (Belgium/Mediterranean),2-3 ft tall,Slow (90-120 days),Full sun,Medium,Annual,20°F,Yellow flowers (if biennial),N/A,Rubine Brussels Sprouts; unique red/purple colored sprouts.
 ,Brussels Sprouts,Catskill,Brassicaceae,No (USA selection),2 ft tall,Moderate,Full sun,Medium,Annual,20°F,N/A,N/A,Catskill Brussels Sprouts; dwarf variety with large sprouts.
-,Brussels Sprouts,Roodnerf,Brassicaceae,No,2-3 ft,Moderate,Full sun,Medium,Annual,20°F,N/A,N/A,Traditional Brussels Sprouts.
+,Brussels Sprouts,Roodnerf,,,,,,,,,,,
 ,Brussels Sprouts,Long Island,Brassicaceae,No (USA),2-3 ft tall,Moderate,Full sun,Medium,Annual,20°F,N/A,N/A,Long Island Improved Brussels Sprouts; heavy yielding variety.
 ,Cabbage,White Vienna Kohlrabi,Brassicaceae,No (Europe),1 ft tall,Fast (55-60 days),Full sun,Medium,Annual,25°F,N/A,N/A,White Vienna Kohlrabi; pale green bulbs with mild flavor.
 ,Cabbage,Red Acre,Brassicaceae,No (Europe),"1 ft tall, 1.5 ft wide",Moderate (75-100 days),Full sun,Medium,Annual,20°F,Yellow flowers (if bolted),N/A,"Red Acre Cabbage; compact heads, good for small gardens."
-,Cabbage,Caraflex,Brassicaceae,No,1 ft,Moderate,Full sun,Medium,Annual,20°F,N/A,N/A,Pointed cabbage.
+,Cabbage,Caraflex,,,,,,,,,,,
 ,Cabbage,Merlot Chinese,Brassicaceae,No (China),1-1.5 ft tall,Fast,Full sun to part shade,Medium,Annual,25°F,N/A,N/A,Merlot Chinese Cabbage; striking deep red/purple leaves.
 ,Cauliflower,Purple of Sicily,Brassicaceae,No (Italy),1.5-2 ft tall,Moderate (90 days),Full sun,Medium,Annual,25°F,Edible bright purple heads,N/A,Purple of Sicily Cauliflower; turns green when cooked.
-,Cauliflower,Snow Crown,Brassicaceae,No,1.5-2 ft,Fast,Full sun,Medium,Annual,25°F,White heads,N/A,Hybrid cauliflower.
+,Cauliflower,Snow Crown,,,,,,,,,,,
 ,Cauliflower,Amazing,Brassicaceae,No (Garden Hybrid),1.5-2 ft tall,Moderate (75 days),Full sun,Medium,Annual,25°F,Edible white heads,N/A,Amazing Cauliflower; great heat tolerance.
-,Cauliflower,Romanseco,Brassicaceae,No,2 ft,Moderate,Full sun,Medium,Annual,25°F,Lime green heads,N/A,Geometric cauliflower.
-,Cauliflower,Twister,Brassicaceae,No,1.5 ft,Moderate,Full sun,Medium,Annual,25°F,White heads,N/A,Self-wrapping cauliflower.
+,Cauliflower,Romanseco,,,,,,,,,,,
+,Cauliflower,Twister,,,,,,,,,,,
 ,Cilantro,Calypso,Apiaceae,No (Mediterranean),1-2 ft tall,Fast,Full sun to part shade,Medium,Annual,28°F,Tiny white/pink umbels,Coriander seeds,Calypso Cilantro; slow to bolt in hot weather.
 ,Collard Greens,Vates,Brassicaceae,No (Mediterranean),2 ft tall,Moderate (75 days),Full sun,Medium,Annual,15°F,Yellow flowers (if biennial),N/A,Vates Collard Greens; classic bolt-resistant variety.
 ,Collard Greens,Flash,Brassicaceae,No (Garden Hybrid),2 ft tall,Fast,Full sun,Medium,Annual,15°F,N/A,N/A,Flash Collard Greens; very fast-growing hybrid.
-,Kale,Scarlet,Brassicaceae,No,2-3 ft,Moderate,Full sun,Medium,Annual,20°F,N/A,N/A,Curly purple kale.
+,Kale,Scarlet,,,,,,,,,,,
 ,Kale,Winterbor,Brassicaceae,No,2-3 ft tall,Moderate,Full sun,Medium,Annual,20°F,N/A,N/A,"Winterbor Kale; very cold hardy, thick curly blue-green leaves."
 ,Kale,Red Russian,Brassicaceae,No,2 ft tall,Fast,Full sun,Medium,Annual,15°F,N/A,N/A,Red Russian Kale; flat oak-like leaves with purple veins.
-,Kale,Crane Red Ornamental,Brassicaceae,No,1-2 ft,Moderate,Full sun,Medium,Annual,20°F,N/A,N/A,Ornamental kale.
+,Kale,Crane Red Ornamental,,,,,,,,,,,
 ,Kale,Dino,Brassicaceae,No,2-3 ft tall,Moderate,Full sun,Medium,Annual,20°F,N/A,N/A,"Dino (Lacinato) Kale; dark blue-green bumpy leaves, very nutritious."
-,Lactuca sativa,Bibb Butterhead,Asteraceae,No,6-12 in,Fast,Full sun to part shade,Medium,Annual,28°F,N/A,N/A,Tender lettuce.
+,Lettuce,Bibb Butterhead,,,,,,,,,,,
 ,Lettuce,Black Seeded Simpson,Asteraceae,No,6-12 in tall/wide,Fast (45 days),Full sun to part shade,Medium,Annual,28°F,N/A,N/A,Black Seeded Simpson Lettuce; classic crinkled leaf variety.
-,Lactuca sativa,Batavian Iceberg,Asteraceae,No,6-12 in,Fast,Full sun to part shade,Medium,Annual,28°F,N/A,N/A,Crisphead lettuce.
-,Lactuca sativa,Red Romaine,Asteraceae,No,12 in,Fast,Full sun to part shade,Medium,Annual,28°F,N/A,N/A,Red leaf romaine.
-,Lactuca sativa,Super Red Romaine,Asteraceae,No,12 in,Fast,Full sun to part shade,Medium,Annual,28°F,N/A,N/A,Deepest red romaine.
-,Lactuca sativa,Drunken Woman Frizzy Headed,Asteraceae,No,6-12 in,Fast,Full sun to part shade,Medium,Annual,28°F,N/A,N/A,Unique Italian heirloom.
-,Lactuca sativa,Buttercrunch Butterhead,Asteraceae,No,6-12 in,Fast,Full sun to part shade,Medium,Annual,28°F,N/A,N/A,Classic butterhead.
-,Lactuca sativa,Paris Island Romaine,Asteraceae,No,12 in,Fast,Full sun to part shade,Medium,Annual,28°F,N/A,N/A,Reliable romaine.
-,Lactuca sativa,Skyphos,Asteraceae,No,12 in,Fast,Full sun to part shade,Medium,Annual,28°F,N/A,N/A,Red butterhead.
-,Mixed Greens,Elegant Greens,Mixed,No,Babyleaf,Fast,Full sun to part shade,Medium,Annual,28°F,N/A,N/A,Salad mix.
-,Brassica juncea,Red Giant,Brassicaceae,No,1-1.5 ft,Fast,Full sun to part shade,Medium,Annual,20°F,N/A,N/A,Spicy mustard greens.
-,Brassica juncea,Florida Broadleaf,Brassicaceae,No,1-1.5 ft,Fast,Full sun to part shade,Medium,Annual,20°F,N/A,N/A,Productive mustard greens.
-,Petroselinum crispum,Moss Curled,Apiaceae,No,1 ft,Moderate,Full sun to part shade,Medium,Annual,15°F,N/A,N/A,Curly parsley.
-,Petroselinum crispum,Giant of Italy,Apiaceae,No,1.5 ft,Moderate,Full sun to part shade,Medium,Annual,15°F,N/A,N/A,Flat leaf parsley.
-,Spinacia oleracea,Bloomsdale,Amaranthaceae,No,1 ft,Fast,Full sun to part shade,Medium,Annual,15°F,N/A,N/A,Classic spinach.
-,Spinacia oleracea,Sun Angel,Amaranthaceae,No,1 ft,Fast,Full sun to part shade,Medium,Annual,15°F,N/A,N/A,Heat tolerant spinach.
-,Spinacia oleracea,Lizard,Amaranthaceae,No,1 ft,Fast,Full sun to part shade,Medium,Annual,15°F,N/A,N/A,Smooth leaf spinach.
-,Spinacia oleracea,Red Snapper,Amaranthaceae,No,1 ft,Fast,Full sun to part shade,Medium,Annual,15°F,N/A,N/A,Red veined spinach.
-,Beta vulgaris,Fordhook,Amaranthaceae,No,2 ft,Moderate,Full sun to part shade,Medium,Annual,20°F,N/A,N/A,Giant chard.
-,Beta vulgaris,Rainbow,Amaranthaceae,No,1.5-2 ft,Moderate,Full sun to part shade,Medium,Annual,20°F,N/A,N/A,Multi-colored chard.
+,Lettuce,Batavian Iceberg,,,,,,,,,,,
+,Lettuce,Red Romaine,,,,,,,,,,,
+,Lettuce,Super Red Romaine,,,,,,,,,,,
+,Lettuce,Drunken Woman Frizzy Headed,,,,,,,,,,,
+,Lettuce,Buttercrunch Butterhead,,,,,,,,,,,
+,Lettuce,Paris Island Romaine,,,,,,,,,,,
+,Lettuce,Skyphos,,,,,,,,,,,
+,Mixed Greens,Elegant Greens,,,,,,,,,,,
+,Mustard,Red Giant,,,,,,,,,,,
+,Mustard,Florida Broadleaf,,,,,,,,,,,
+,Parsley,Moss Curled,,,,,,,,,,,
+,Parsley,Giant of Italy,,,,,,,,,,,
+,Spinach,Bloomsdale,,,,,,,,,,,
+,Spinach,Sun Angel,,,,,,,,,,,
+,Spinach,Lizard,,,,,,,,,,,
+,Spinach,Red Snapper,,,,,,,,,,,
+,Swiss Chard,Fordhook,,,,,,,,,,,
+,Swiss Chard,Rainbow,,,,,,,,,,,
