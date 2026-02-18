@@ -65,6 +65,14 @@ function PlantDetails() {
         <ul className="list-group list-group-flush">
           {plant.notes && <li className="list-group-item"><strong>Notes:</strong> {plant.notes}</li>}
         </ul>
+
+        <div className="mt-5 pt-3 border-top text-center">
+          <p className="text-muted small">
+            Spot an error? <a href={`mailto:your-email@example.com?subject=Correction for ${plant.commonName} (ID: ${plant.id})&body=Please describe the error or missing information for ${plant.commonName}:`}>
+              Report incorrect information
+            </a>
+          </p>
+        </div>
       </div>
     </div>
   );
