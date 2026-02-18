@@ -16,10 +16,12 @@ function PlantList() {
       });
   }, []);
 
-  const filteredPlants = plants.filter(plant => 
-    (plant.commonName && plant.commonName.toLowerCase().includes(searchTerm.toLowerCase())) ||
-    (plant.botanicalName && plant.botanicalName.toLowerCase().includes(searchTerm.toLowerCase()))
-  );
+  const filteredPlants = plants
+    .filter(plant => 
+      (plant.commonName && plant.commonName.toLowerCase().includes(searchTerm.toLowerCase())) ||
+      (plant.botanicalName && plant.botanicalName.toLowerCase().includes(searchTerm.toLowerCase()))
+    )
+    .sort((a, b) => (a.commonName || "").localeCompare(b.commonName || ""));
 
   return (
     <div>
