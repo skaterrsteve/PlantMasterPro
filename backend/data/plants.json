@@ -991,7 +991,7 @@
     "id": "61",
     "landscapeCategory": "Tree",
     "botanicalName": "Pinus monophylla",
-    "commonName": "Single-leaf Pinyon",
+    "commonName": "Single-leaf pinyon",
     "family": "Pinaceae",
     "isNative": true,
     "size": "33-66 feet tall",
@@ -1232,7 +1232,13 @@
     "landscapeCategory": "Shrub",
     "botanicalName": "Fremontodendron californicum",
     "commonName": "California flannelbush",
+    "family": "Malvaceae",
     "isNative": true,
+    "size": "Up to 20 feet tall, 12 feet wide",
+    "growthRate": "Fast",
+    "lightRequirements": "Full sun",
+    "waterNeeds": "Very low",
+    "flowerInfo": "Showy yellow flowers, up to 6 cm wide",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Fremontodendron_californicum"
   },
   {
@@ -1240,7 +1246,13 @@
     "landscapeCategory": "Shrub",
     "botanicalName": "Prunus ilicifolia",
     "commonName": "Hollyleaf cherry",
+    "family": "Rosaceae",
     "isNative": true,
+    "size": "Up to 30 feet tall",
+    "lightRequirements": "Full sun to partial shade",
+    "waterNeeds": "Low",
+    "flowerInfo": "Small white flowers in racemes",
+    "fruitInfo": "Red to purple-black edible cherry",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Prunus_ilicifolia"
   },
   {
@@ -1248,7 +1260,12 @@
     "landscapeCategory": "Shrub",
     "botanicalName": "Calycanthus occidentalis",
     "commonName": "Spicebush",
+    "family": "Calycanthaceae",
     "isNative": true,
+    "size": "Up to 13 feet tall",
+    "lightRequirements": "Partial shade to full sun",
+    "waterNeeds": "Moderate to high (riparian)",
+    "flowerInfo": "Dark red to burgundy, spicy-scented",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Calycanthus_occidentalis"
   },
   {
@@ -1256,7 +1273,10 @@
     "landscapeCategory": "Shrub",
     "botanicalName": "Carpenteria californica",
     "commonName": "Bush anemone",
+    "family": "Hydrangeaceae",
     "isNative": true,
+    "size": "Up to 10 feet tall",
+    "flowerInfo": "Showy white flowers with yellow centers",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Carpenteria_californica"
   },
   {
@@ -1264,7 +1284,11 @@
     "landscapeCategory": "Shrub",
     "botanicalName": "Peritoma arborea",
     "commonName": "Bladderpod",
+    "family": "Cleomaceae",
     "isNative": true,
+    "size": "Up to 6.5 feet tall",
+    "flowerInfo": "Clusters of yellow flowers",
+    "fruitInfo": "Inflated, bladder-like seed pods",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Peritoma_arborea"
   },
   {
@@ -1272,7 +1296,10 @@
     "landscapeCategory": "Perennial",
     "botanicalName": "Lupinus albifrons",
     "commonName": "Silver lupine",
+    "family": "Fabaceae",
     "isNative": true,
+    "size": "Up to 5 feet tall",
+    "flowerInfo": "Purple to blue spikes",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Lupinus_albifrons"
   },
   {
@@ -1280,7 +1307,11 @@
     "landscapeCategory": "Shrub",
     "botanicalName": "Symphoricarpos mollis",
     "commonName": "Creeping snowberry",
+    "family": "Caprifoliaceae",
     "isNative": true,
+    "size": "Low spreading shrub",
+    "flowerInfo": "Small pinkish-white bell-shaped flowers",
+    "fruitInfo": "White waxy berries",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Symphoricarpos_mollis"
   },
   {
@@ -1288,7 +1319,11 @@
     "landscapeCategory": "Shrub",
     "botanicalName": "Vaccinium ovatum",
     "commonName": "Evergreen huckleberry",
+    "family": "Ericaceae",
     "isNative": true,
+    "size": "Up to 10 feet tall",
+    "flowerInfo": "Pinkish bell-shaped flowers",
+    "fruitInfo": "Black or dark blue edible berries",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Vaccinium_ovatum"
   },
   {
@@ -1296,7 +1331,10 @@
     "landscapeCategory": "Tree",
     "botanicalName": "Notholithocarpus densiflorus",
     "commonName": "Tanoak",
+    "family": "Fagaceae",
     "isNative": true,
+    "size": "Up to 130 feet tall",
+    "fruitInfo": "Acorns with spiny caps",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Notholithocarpus_densiflorus"
   },
   {
@@ -1304,7 +1342,11 @@
     "landscapeCategory": "Tree",
     "botanicalName": "Arbutus menziesii",
     "commonName": "Pacific madrone",
+    "family": "Ericaceae",
     "isNative": true,
+    "size": "Up to 100 feet tall",
+    "flowerInfo": "Small white urn-shaped flowers",
+    "fruitInfo": "Orange-red berries",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Arbutus_menziesii"
   },
   {
@@ -1312,7 +1354,12 @@
     "landscapeCategory": "Tree",
     "botanicalName": "Acer macrophyllum",
     "commonName": "Bigleaf maple",
+    "family": "Sapindaceae",
     "isNative": true,
+    "size": "Up to 158 feet tall",
+    "growthRate": "Prolific",
+    "flowerInfo": "Greenish-yellow pendulous racemes",
+    "fruitInfo": "Paired winged samaras",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Acer_macrophyllum"
   },
   {
@@ -1320,7 +1367,11 @@
     "landscapeCategory": "Tree",
     "botanicalName": "Sambucus cerulea",
     "commonName": "Blue elderberry",
+    "family": "Adoxaceae",
     "isNative": true,
+    "size": "Up to 20 feet tall",
+    "flowerInfo": "Creamy white flat-topped clusters",
+    "fruitInfo": "Bluish-black berry-like drupes",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Sambucus_cerulea"
   },
   {
@@ -1328,7 +1379,12 @@
     "landscapeCategory": "Tree",
     "botanicalName": "Aesculus californica",
     "commonName": "California buckeye",
+    "family": "Sapindaceae",
     "isNative": true,
+    "size": "Up to 39 feet tall",
+    "growthRate": "Seasonal/Deciduous",
+    "flowerInfo": "Sweet-scented white to pale pink panicles",
+    "fruitInfo": "Fig-shaped capsule with large poisonous seed",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Aesculus_californica"
   },
   {
@@ -1336,7 +1392,11 @@
     "landscapeCategory": "Tree/Shrub",
     "botanicalName": "Cercis occidentalis",
     "commonName": "Western redbud",
+    "family": "Fabaceae",
     "isNative": true,
+    "size": "Up to 23 feet tall",
+    "flowerInfo": "Bright pink or magenta pea-like flowers",
+    "fruitInfo": "Thin brown or reddish-purple legume pods",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Cercis_occidentalis"
   },
   {
@@ -1344,7 +1404,10 @@
     "landscapeCategory": "Tree",
     "botanicalName": "Juglans californica",
     "commonName": "California black walnut",
+    "family": "Juglandaceae",
     "isNative": true,
+    "size": "Up to 49 feet tall",
+    "fruitInfo": "Small hard edible nut in thick shell",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Juglans_californica"
   },
   {
@@ -1352,7 +1415,11 @@
     "landscapeCategory": "Shrub/Tree",
     "botanicalName": "Corylus cornuta",
     "commonName": "California hazelnut",
+    "family": "Betulaceae",
     "isNative": true,
+    "size": "Up to 49 feet tall",
+    "flowerInfo": "Male catkins and small female flowers",
+    "fruitInfo": "Nut enclosed in a beak-like husk",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Corylus_cornuta"
   },
   {
@@ -1360,7 +1427,10 @@
     "landscapeCategory": "Tree",
     "botanicalName": "Quercus lobata",
     "commonName": "Valley oak",
+    "family": "Fagaceae",
     "isNative": true,
+    "size": "Up to 153 feet tall",
+    "fruitInfo": "Medium to dark brown acorns, 2-3 cm long",
     "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Quercus_lobata"
   }
 ]
