@@ -1,11 +1,12 @@
 @echo off
-echo Starting servers...
+SET "BASE_DIR=%~dp0"
+echo Starting servers from %BASE_DIR%...
 
-REM Set a unique title for the backend server window
-start "PlantMasterPro Backend Server" cmd /k "cd backend && node server.js"
+REM Start Backend
+start "PlantMasterPro Backend Server" cmd /k "cd /d %BASE_DIR%backend && node server.js"
 
-REM Set a unique title for the frontend server window
-start "PlantMasterPro Frontend Server" cmd /k "cd frontend && npm start"
+REM Start Frontend
+start "PlantMasterPro Frontend Server" cmd /k "cd /d %BASE_DIR%frontend && npm start"
 
 echo.
 echo Servers are starting in new windows.

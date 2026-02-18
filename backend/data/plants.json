@@ -19,7 +19,7 @@
   {
     "id": "2",
     "landscapeCategory": "",
-    "botanicalName": "Agave lopantha 'Quadricolor'",
+    "botanicalName": "Agave univittata 'Quadricolor'",
     "commonName": "Quadricolor Agave",
     "family": "Asparagaceae",
     "isNative": false,
@@ -31,12 +31,12 @@
     "hardyTo": "10\u00b0F to 15\u00b0F",
     "flowerInfo": "Tall stalk (12-20 ft) with greenish-yellow clusters; monocarpic",
     "fruitInfo": "Produces seeds; offsets (pups) at base",
-    "notes": "Highly variegated with yellow, green, and cream."
+    "notes": "Formerly Agave lophantha; variegated foliage."
   },
   {
     "id": "3",
     "landscapeCategory": "",
-    "botanicalName": "Agave lopantha 'Quadricolor'",
+    "botanicalName": "Agave univittata 'Quadricolor'",
     "commonName": "Thorncrest Century Plant",
     "family": "Asparagaceae",
     "isNative": false,
@@ -48,7 +48,7 @@
     "hardyTo": "10\u00b0F to 15\u00b0F",
     "flowerInfo": "Tall stalk (12-20 ft) with greenish-yellow clusters; monocarpic",
     "fruitInfo": "Produces seeds; offsets (pups) at base",
-    "notes": "Highly variegated with yellow, green, and cream."
+    "notes": "Formerly Agave lophantha; variegated foliage."
   },
   {
     "id": "4",
@@ -189,7 +189,7 @@
   {
     "id": "12",
     "landscapeCategory": "",
-    "botanicalName": "Dasylirion longissium",
+    "botanicalName": "Dasylirion longissimum",
     "commonName": "Mexican Grass Tree",
     "family": "Asparagaceae",
     "isNative": false,
@@ -308,7 +308,7 @@
   {
     "id": "19",
     "landscapeCategory": "",
-    "botanicalName": "Heteromeles arbutifola",
+    "botanicalName": "Heteromeles arbutifolia",
     "commonName": "Toyon",
     "family": "Rosaceae",
     "isNative": true,
@@ -393,7 +393,7 @@
   {
     "id": "24",
     "landscapeCategory": "",
-    "botanicalName": "Tephrocatus articulatus",
+    "botanicalName": "Tephrocactus articulatus",
     "commonName": "Pine Cone Cactus",
     "family": "Cactaceae",
     "isNative": false,
@@ -478,7 +478,7 @@
   {
     "id": "29",
     "landscapeCategory": "",
-    "botanicalName": "Acer glabrum var. torreyana",
+    "botanicalName": "Acer glabrum var. torreyi",
     "commonName": "Rocky Mountain Maple",
     "family": "Sapindaceae",
     "isNative": true,
@@ -648,7 +648,7 @@
   {
     "id": "39",
     "landscapeCategory": "",
-    "botanicalName": "Artemesia californica",
+    "botanicalName": "Artemisia californica",
     "commonName": "Coastal Sagebrush",
     "family": "Asteraceae",
     "isNative": true,
@@ -1039,7 +1039,7 @@
   {
     "id": "62",
     "landscapeCategory": "",
-    "botanicalName": "Elymus condensatus",
+    "botanicalName": "Leymus condensatus",
     "commonName": "Wild Rye 'Canyon Prince'",
     "family": "Poaceae",
     "isNative": true,
@@ -1447,7 +1447,7 @@
   {
     "id": "86",
     "landscapeCategory": "",
-    "botanicalName": "Myrica californica",
+    "botanicalName": "Morella californica",
     "commonName": "Pacific Wax Myrtle",
     "family": "Myricaceae",
     "isNative": true,
@@ -1459,7 +1459,7 @@
     "hardyTo": "0\u00b0F",
     "flowerInfo": "Inconspicuous greenish spikes",
     "fruitInfo": "Small warty purple/black berries with white wax",
-    "notes": "Pacific Wax Myrtle; excellent screening shrub."
+    "notes": "Formerly Myrica californica; Pacific Wax Myrtle."
   },
   {
     "id": "87",
@@ -1634,7 +1634,7 @@
   {
     "id": "97",
     "landscapeCategory": "",
-    "botanicalName": "Ribes sanureum var. areum",
+    "botanicalName": "Ribes aureum",
     "commonName": "Golden Currant",
     "family": "Grossulariaceae",
     "isNative": true,
@@ -1736,7 +1736,7 @@
   {
     "id": "103",
     "landscapeCategory": "",
-    "botanicalName": "Sambucus mexicana",
+    "botanicalName": "Sambucus nigra ssp. caerulea",
     "commonName": "Mexican Elderberry",
     "family": "Adoxaceae",
     "isNative": true,
@@ -1753,7 +1753,7 @@
   {
     "id": "104",
     "landscapeCategory": "",
-    "botanicalName": "Satureja douglasii",
+    "botanicalName": "Clinopodium douglasii",
     "commonName": "Yerba Buena",
     "family": "Lamiaceae",
     "isNative": true,
@@ -1821,7 +1821,7 @@
   {
     "id": "108",
     "landscapeCategory": "",
-    "botanicalName": "Stipa pulchra",
+    "botanicalName": "Nassella pulchra",
     "commonName": "Purple Needlegrass",
     "family": "Poaceae",
     "isNative": true,
@@ -1872,7 +1872,7 @@
   {
     "id": "111",
     "landscapeCategory": "",
-    "botanicalName": "Agapanthus sanguinea",
+    "botanicalName": "Agapanthus africanus",
     "commonName": "Lily of the Nile",
     "family": "Amaryllidaceae",
     "isNative": false,
@@ -1884,7 +1884,7 @@
     "hardyTo": "15\u00b0F",
     "flowerInfo": "Rounded clusters of blue/violet/white funnel flowers",
     "fruitInfo": "Seeds",
-    "notes": "Lily of the Nile; tough landscape plant."
+    "notes": "Agapanthus africanus is the commonly cultivated species; African Lily."
   },
   {
     "id": "112",
@@ -2009,7 +2009,7 @@
     "id": "119",
     "landscapeCategory": "",
     "botanicalName": "Arctotheca calendula",
-    "commonName": "Cape Dandelion",
+    "commonName": "Capeweed",
     "family": "Asteraceae",
     "isNative": false,
     "size": "1 ft tall, spreads indefinitely",
@@ -2020,12 +2020,12 @@
     "hardyTo": "25\u00b0F",
     "flowerInfo": "Yellow daisy-like flowers with dark centers",
     "fruitInfo": "Achenes with fluffy wool",
-    "notes": "Cape Dandelion; tough groundcover, can be invasive."
+    "notes": "Commonly known as Capeweed or Cape Dandelion."
   },
   {
     "id": "120",
     "landscapeCategory": "",
-    "botanicalName": "Artemesia absinthium",
+    "botanicalName": "Artemisia absinthium",
     "commonName": "Wormwood",
     "family": "Asteraceae",
     "isNative": false,
@@ -2042,7 +2042,7 @@
   {
     "id": "121",
     "landscapeCategory": "",
-    "botanicalName": "Artemesia 'Powis Castle'",
+    "botanicalName": "Artemisia 'Powis Castle'",
     "commonName": "Wormwood 'Powis Castle'",
     "family": "Asteraceae",
     "isNative": false,
@@ -2161,7 +2161,7 @@
   {
     "id": "128",
     "landscapeCategory": "",
-    "botanicalName": "Budleja globosa",
+    "botanicalName": "Buddleja globosa",
     "commonName": "Butterfly Bush  'Orange Ball'",
     "family": "Scrophulariaceae",
     "isNative": false,
@@ -2249,7 +2249,7 @@
     "botanicalName": "Campsis radicans",
     "commonName": "Trumpet Vine",
     "family": "Bignoniaceae",
-    "isNative": false,
+    "isNative": true,
     "size": "30-40 ft long (climbing vine)",
     "growthRate": "Fast and aggressive",
     "lightRequirements": "Full sun to part sun",
@@ -2351,7 +2351,7 @@
     "botanicalName": "Chasmanthium latifolium",
     "commonName": "Sea Oats",
     "family": "Poaceae",
-    "isNative": false,
+    "isNative": true,
     "size": "2-5 ft tall, 1-2.5 ft wide",
     "growthRate": "Medium (fast-clumping)",
     "lightRequirements": "Part shade to shade",
@@ -2535,7 +2535,7 @@
   {
     "id": "150",
     "landscapeCategory": "",
-    "botanicalName": "Cryptomeria japonica 'Lobbi Nana'",
+    "botanicalName": "Cryptomeria japonica 'Globosa Nana'",
     "commonName": "Japanese Plume Cedar",
     "family": "Cupressaceae",
     "isNative": false,
@@ -2547,7 +2547,7 @@
     "hardyTo": "-10\u00b0F",
     "flowerInfo": "Insignificant cones",
     "fruitInfo": "Small brown cones",
-    "notes": "Dwarf Japanese Cedar; bronze winter foliage color."
+    "notes": "Dwarf Japanese Cedar; 'Globosa Nana' is the correct cultivar name."
   },
   {
     "id": "151",
@@ -2640,7 +2640,7 @@
     "botanicalName": "Echinacea purpurea",
     "commonName": "Purple Coneflower",
     "family": "Asteraceae",
-    "isNative": false,
+    "isNative": true,
     "size": "2-5 ft tall, 2 ft wide",
     "growthRate": "Moderate",
     "lightRequirements": "Full sun to part shade",
@@ -2739,10 +2739,10 @@
   {
     "id": "162",
     "landscapeCategory": "",
-    "botanicalName": "Gaura lindheimeri",
+    "botanicalName": "Oenothera lindheimeri",
     "commonName": "Gaura",
     "family": "Onagraceae",
-    "isNative": false,
+    "isNative": true,
     "size": "2-4 ft tall, 2-3 ft wide",
     "growthRate": "Fast",
     "lightRequirements": "Full sun",
@@ -2751,15 +2751,15 @@
     "hardyTo": "-10\u00b0F",
     "flowerInfo": "Airy white/pink butterfly-like flowers",
     "fruitInfo": "Small nut-like fruits",
-    "notes": "White Gaura; very drought tolerant, long bloom season."
+    "notes": "Formerly Gaura lindheimeri; White Gaura."
   },
   {
     "id": "163",
     "landscapeCategory": "",
-    "botanicalName": "Heauchera x micrantha",
+    "botanicalName": "Heuchera micrantha",
     "commonName": "Coral Bells 'Purple Palace'",
     "family": "Saxifragaceae",
-    "isNative": false,
+    "isNative": true,
     "size": "1-2 ft tall, 1-1.5 ft wide",
     "growthRate": "Medium",
     "lightRequirements": "Full sun to part shade",
@@ -2793,7 +2793,7 @@
     "botanicalName": "Humulus lupulus",
     "commonName": "Hops",
     "family": "Cannabaceae",
-    "isNative": false,
+    "isNative": true,
     "size": "20-33 ft (climbing vine)",
     "growthRate": "Fast (up to 10 in/day)",
     "lightRequirements": "Full sun to part shade",
@@ -2841,7 +2841,7 @@
   {
     "id": "168",
     "landscapeCategory": "",
-    "botanicalName": "Juncus xiphoides",
+    "botanicalName": "Juncus xiphioides",
     "commonName": "Irisleaf Rush",
     "family": "Juncaceae",
     "isNative": true,
@@ -2875,7 +2875,7 @@
   {
     "id": "170",
     "landscapeCategory": "",
-    "botanicalName": "Lavatera thuringiaca",
+    "botanicalName": "Malva thuringiaca",
     "commonName": "Kew Rose",
     "family": "Malvaceae",
     "isNative": false,
@@ -2887,7 +2887,7 @@
     "hardyTo": "-4\u00b0F",
     "flowerInfo": "Pink to lavender-pink mallow flowers",
     "fruitInfo": "N/A",
-    "notes": "Kew Rose Tree Mallow; long bloom period, attracts bees."
+    "notes": "Formerly Lavatera thuringiaca; Garden Tree Mallow."
   },
   {
     "id": "171",
@@ -3096,10 +3096,10 @@
   {
     "id": "183",
     "landscapeCategory": "",
-    "botanicalName": "Oenothera freemontii",
+    "botanicalName": "Oenothera macrocarpa ssp. fremontii",
     "commonName": "Evening Primrose 'Shimmer'",
     "family": "Onagraceae",
-    "isNative": false,
+    "isNative": true,
     "size": "8-10 in tall, 1.5 ft wide",
     "growthRate": "Fast",
     "lightRequirements": "Full sun",
@@ -3108,13 +3108,13 @@
     "hardyTo": "-30\u00b0F",
     "flowerInfo": "Large lemon-yellow cup-shaped flowers",
     "fruitInfo": "Small capsules",
-    "notes": "Shimmer Evening Primrose; spectacular silvery-blue foliage."
+    "notes": "Correct spelling is fremontii."
   },
   {
     "id": "184",
     "landscapeCategory": "",
     "botanicalName": "Olea europaea",
-    "commonName": "Swan Hill' Olive",
+    "commonName": "Swan Hill Olive",
     "family": "Oleaceae",
     "isNative": false,
     "size": "20-30 ft tall and wide",
@@ -3125,7 +3125,7 @@
     "hardyTo": "15\u00b0F",
     "flowerInfo": "Small inconspicuous greenish flowers",
     "fruitInfo": "None (on Swan Hill variety)",
-    "notes": "Swan Hill Olive; pollen-free and fruit-free variety."
+    "notes": "Pollen-free and fruit-free variety."
   },
   {
     "id": "185",
@@ -3181,7 +3181,7 @@
   {
     "id": "188",
     "landscapeCategory": "",
-    "botanicalName": "Perovskia atriplicifolia",
+    "botanicalName": "Salvia yangii",
     "commonName": "Russian Sage",
     "family": "Lamiaceae",
     "isNative": false,
@@ -3193,7 +3193,7 @@
     "hardyTo": "-30\u00b0F",
     "flowerInfo": "Airy spikes of small lavender-blue flowers",
     "fruitInfo": "Nutlets",
-    "notes": "Russian Sage; aromatic silvery foliage, very drought tolerant."
+    "notes": "Formerly Perovskia atriplicifolia; Russian Sage."
   },
   {
     "id": "189",
@@ -3269,7 +3269,7 @@
     "botanicalName": "Physocarpus opulifolius",
     "commonName": "Ninebark 'Diabolo'",
     "family": "Rosaceae",
-    "isNative": false,
+    "isNative": true,
     "size": "4-10 ft tall and wide",
     "growthRate": "Moderate to Fast",
     "lightRequirements": "Full sun to part shade",
@@ -3303,7 +3303,7 @@
     "botanicalName": "Quercus alba",
     "commonName": "White Oak",
     "family": "Fagaceae",
-    "isNative": false,
+    "isNative": true,
     "size": "50-80 ft tall and wide",
     "growthRate": "Slow to Moderate",
     "lightRequirements": "Full sun",
@@ -3320,7 +3320,7 @@
     "botanicalName": "Ratibida columnifera",
     "commonName": "Mexican Hat Flower",
     "family": "Asteraceae",
-    "isNative": false,
+    "isNative": true,
     "size": "1-3 ft tall, 1-1.5 ft wide",
     "growthRate": "Fast",
     "lightRequirements": "Full sun",
@@ -3419,7 +3419,7 @@
   {
     "id": "202",
     "landscapeCategory": "",
-    "botanicalName": "Salvia chamaednyoides",
+    "botanicalName": "Salvia chamaedryoides",
     "commonName": "'Marine Blue' Sage",
     "family": "Lamiaceae",
     "isNative": false,
@@ -3521,7 +3521,7 @@
   {
     "id": "208",
     "landscapeCategory": "",
-    "botanicalName": "Solanum jasminoides",
+    "botanicalName": "Solanum laxum",
     "commonName": "Potato Vine",
     "family": "Solanaceae",
     "isNative": false,
@@ -3533,7 +3533,7 @@
     "hardyTo": "15\u00b0F to 20\u00b0F",
     "flowerInfo": "Star-shaped white to light blue flowers",
     "fruitInfo": "Small black berries (toxic)",
-    "notes": "Potato Vine; vigorous climber, heavy bloom."
+    "notes": "Formerly Solanum jasminoides; Potato Vine."
   },
   {
     "id": "209",
@@ -3572,7 +3572,7 @@
   {
     "id": "211",
     "landscapeCategory": "",
-    "botanicalName": "Stipa gigantea",
+    "botanicalName": "Celtica gigantea",
     "commonName": "Giant Feather Grass",
     "family": "Poaceae",
     "isNative": false,
@@ -3584,7 +3584,7 @@
     "hardyTo": "0\u00b0F",
     "flowerInfo": "Golden oat-like airy panicles",
     "fruitInfo": "Golden seeds",
-    "notes": "Giant Feather Grass; spectacular golden architectural grass."
+    "notes": "Formerly Stipa gigantea; Giant Feather Grass."
   },
   {
     "id": "212",
@@ -3606,7 +3606,7 @@
   {
     "id": "213",
     "landscapeCategory": "",
-    "botanicalName": "Syringa x laciniata",
+    "botanicalName": "Syringa laciniata",
     "commonName": "Cutleaf Lilac",
     "family": "Oleaceae",
     "isNative": false,
@@ -3618,7 +3618,7 @@
     "hardyTo": "-30\u00b0F",
     "flowerInfo": "Fragrant pale lilac flower spikes",
     "fruitInfo": "Sterile capsules",
-    "notes": "Cutleaf Lilac; mildew resistant, unique divided leaves."
+    "notes": "Cut-leaf Lilac."
   },
   {
     "id": "214",
@@ -3725,7 +3725,7 @@
   {
     "id": "220",
     "landscapeCategory": "",
-    "botanicalName": "Vitex angus-castus",
+    "botanicalName": "Vitex agnus-castus",
     "commonName": "Chaste Tree",
     "family": "Lamiaceae",
     "isNative": false,
@@ -3827,7 +3827,7 @@
   {
     "id": "226",
     "landscapeCategory": "",
-    "botanicalName": "Certonia siliqua",
+    "botanicalName": "Ceratonia siliqua",
     "commonName": "Carob",
     "family": "Fabaceae",
     "isNative": false,
@@ -3912,7 +3912,7 @@
   {
     "id": "231",
     "landscapeCategory": "",
-    "botanicalName": "Feijoa sellowiana",
+    "botanicalName": "Acca sellowiana",
     "commonName": "Pineapple Guava",
     "family": "Myrtaceae",
     "isNative": false,
@@ -3924,7 +3924,7 @@
     "hardyTo": "15\u00b0F",
     "flowerInfo": "Spectacular edible white/red flowers",
     "fruitInfo": "Green oval fruits with pineapple/mint flavor",
-    "notes": "Pineapple Guava; highly ornamental evergreen fruit shrub."
+    "notes": "Formerly Feijoa sellowiana; Pineapple Guava."
   },
   {
     "id": "232",
@@ -4082,8 +4082,8 @@
   {
     "id": "241",
     "landscapeCategory": "",
-    "botanicalName": "Vitis spp.",
-    "commonName": "Granache",
+    "botanicalName": "Vitis vinifera",
+    "commonName": "Grape Vine",
     "family": "Vitaceae",
     "isNative": false,
     "size": "20-30 ft (climbing vine)",
@@ -4230,13 +4230,13 @@
     "hardyTo": "25\u00b0F",
     "flowerInfo": "Small white/pinkish pompom flowers",
     "fruitInfo": "Achenes",
-    "notes": "Blue Chalksticks; intense silvery-blue cylindrical leaves."
+    "notes": "Formerly Senecio serpens."
   },
   {
     "id": "250",
     "landscapeCategory": "",
-    "botanicalName": "Echevaria spp",
-    "commonName": "Echevaria",
+    "botanicalName": "Echeveria spp.",
+    "commonName": "Echeveria",
     "family": "Crassulaceae",
     "isNative": false,
     "size": "4-12 in wide rosettes",
@@ -4247,12 +4247,12 @@
     "hardyTo": "25\u00b0F to 32\u00b0F",
     "flowerInfo": "Arching stalks with pink/orange/yellow bells",
     "fruitInfo": "N/A",
-    "notes": "Echeveria (spelled Echevaria in CSV); popular rose-shaped succulents."
+    "notes": "Correct spelling is Echeveria."
   },
   {
     "id": "251",
     "landscapeCategory": "",
-    "botanicalName": "Echevaria spp.",
+    "botanicalName": "Echeveria spp.",
     "commonName": "Cubic Frost'",
     "family": "Crassulaceae",
     "isNative": false,
@@ -4270,7 +4270,7 @@
     "id": "252",
     "landscapeCategory": "",
     "botanicalName": "Graptopetalum paraguayense",
-    "commonName": "Ghost-Plant",
+    "commonName": "Ghost Plant",
     "family": "Crassulaceae",
     "isNative": false,
     "size": "8-12 in tall, 2-3 ft spread",
@@ -4281,7 +4281,7 @@
     "hardyTo": "15\u00b0F to 20\u00b0F",
     "flowerInfo": "Star-shaped white flowers with red spots",
     "fruitInfo": "N/A",
-    "notes": "Ghost Plant; leaves fall off easily and root to form new plants."
+    "notes": "Also known as Mother-of-pearl-plant."
   },
   {
     "id": "253",
@@ -4371,7 +4371,7 @@
   {
     "id": "258",
     "landscapeCategory": "",
-    "botanicalName": "Sedum telphium",
+    "botanicalName": "Sedum telephium",
     "commonName": "'Autumn Joy' Sedum",
     "family": "Crassulaceae",
     "isNative": false,
@@ -4388,7 +4388,7 @@
   {
     "id": "259",
     "landscapeCategory": "",
-    "botanicalName": "Arugula",
+    "botanicalName": "Eruca vesicaria",
     "commonName": "Uber",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4422,7 +4422,7 @@
   {
     "id": "261",
     "landscapeCategory": "",
-    "botanicalName": "Bok Choy",
+    "botanicalName": "Brassica rapa (Chinensis Group)",
     "commonName": "Joi Choi",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4439,7 +4439,7 @@
   {
     "id": "262",
     "landscapeCategory": "",
-    "botanicalName": "Broccoli",
+    "botanicalName": "Brassica oleracea (Italica Group)",
     "commonName": "Green Magic",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4456,7 +4456,7 @@
   {
     "id": "263",
     "landscapeCategory": "",
-    "botanicalName": "Broccoli",
+    "botanicalName": "Brassica oleracea (Italica Group)",
     "commonName": "Calabrese",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4473,7 +4473,7 @@
   {
     "id": "264",
     "landscapeCategory": "",
-    "botanicalName": "Broccoli",
+    "botanicalName": "Brassica oleracea (Italica Group)",
     "commonName": "De Cicco",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4490,7 +4490,7 @@
   {
     "id": "265",
     "landscapeCategory": "",
-    "botanicalName": "Broccoli",
+    "botanicalName": "Brassica oleracea (Italica Group)",
     "commonName": "Purple Sprouting",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4507,7 +4507,7 @@
   {
     "id": "266",
     "landscapeCategory": "",
-    "botanicalName": "Brussels Sprouts",
+    "botanicalName": "Brassica oleracea (Gemmifera Group)",
     "commonName": "Rubine",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4524,7 +4524,7 @@
   {
     "id": "267",
     "landscapeCategory": "",
-    "botanicalName": "Brussels Sprouts",
+    "botanicalName": "Brassica oleracea (Gemmifera Group)",
     "commonName": "Catskill",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4541,7 +4541,7 @@
   {
     "id": "268",
     "landscapeCategory": "",
-    "botanicalName": "Brussels Sprouts",
+    "botanicalName": "Brassica oleracea (Gemmifera Group)",
     "commonName": "Roodnerf",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4558,7 +4558,7 @@
   {
     "id": "269",
     "landscapeCategory": "",
-    "botanicalName": "Brussels Sprouts",
+    "botanicalName": "Brassica oleracea (Gemmifera Group)",
     "commonName": "Long Island",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4575,7 +4575,7 @@
   {
     "id": "270",
     "landscapeCategory": "",
-    "botanicalName": "Cabbage",
+    "botanicalName": "Brassica oleracea (Capitata Group)",
     "commonName": "White Vienna Kohlrabi",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4592,7 +4592,7 @@
   {
     "id": "271",
     "landscapeCategory": "",
-    "botanicalName": "Cabbage",
+    "botanicalName": "Brassica oleracea (Capitata Group)",
     "commonName": "Red Acre",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4609,7 +4609,7 @@
   {
     "id": "272",
     "landscapeCategory": "",
-    "botanicalName": "Cabbage",
+    "botanicalName": "Brassica oleracea (Capitata Group)",
     "commonName": "Caraflex",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4626,7 +4626,7 @@
   {
     "id": "273",
     "landscapeCategory": "",
-    "botanicalName": "Cabbage",
+    "botanicalName": "Brassica oleracea (Capitata Group)",
     "commonName": "Merlot Chinese",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4643,7 +4643,7 @@
   {
     "id": "274",
     "landscapeCategory": "",
-    "botanicalName": "Cauliflower",
+    "botanicalName": "Brassica oleracea (Botrytis Group)",
     "commonName": "Purple of Sicily",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4660,7 +4660,7 @@
   {
     "id": "275",
     "landscapeCategory": "",
-    "botanicalName": "Cauliflower",
+    "botanicalName": "Brassica oleracea (Botrytis Group)",
     "commonName": "Snow Crown",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4677,7 +4677,7 @@
   {
     "id": "276",
     "landscapeCategory": "",
-    "botanicalName": "Cauliflower",
+    "botanicalName": "Brassica oleracea (Botrytis Group)",
     "commonName": "Amazing",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4694,7 +4694,7 @@
   {
     "id": "277",
     "landscapeCategory": "",
-    "botanicalName": "Cauliflower",
+    "botanicalName": "Brassica oleracea (Botrytis Group)",
     "commonName": "Romanseco",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4711,7 +4711,7 @@
   {
     "id": "278",
     "landscapeCategory": "",
-    "botanicalName": "Cauliflower",
+    "botanicalName": "Brassica oleracea (Botrytis Group)",
     "commonName": "Twister",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4728,7 +4728,7 @@
   {
     "id": "279",
     "landscapeCategory": "",
-    "botanicalName": "Cilantro",
+    "botanicalName": "Coriandrum sativum",
     "commonName": "Calypso",
     "family": "Apiaceae",
     "isNative": false,
@@ -4745,7 +4745,7 @@
   {
     "id": "280",
     "landscapeCategory": "",
-    "botanicalName": "Collard Greens",
+    "botanicalName": "Brassica oleracea (Acephala Group)",
     "commonName": "Vates",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4762,7 +4762,7 @@
   {
     "id": "281",
     "landscapeCategory": "",
-    "botanicalName": "Collard Greens",
+    "botanicalName": "Brassica oleracea (Acephala Group)",
     "commonName": "Flash",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4779,7 +4779,7 @@
   {
     "id": "282",
     "landscapeCategory": "",
-    "botanicalName": "Kale",
+    "botanicalName": "Brassica oleracea (Acephala Group)",
     "commonName": "Scarlet",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4796,7 +4796,7 @@
   {
     "id": "283",
     "landscapeCategory": "",
-    "botanicalName": "Kale",
+    "botanicalName": "Brassica oleracea (Acephala Group)",
     "commonName": "Winterbor",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4813,7 +4813,7 @@
   {
     "id": "284",
     "landscapeCategory": "",
-    "botanicalName": "Kale",
+    "botanicalName": "Brassica oleracea (Acephala Group)",
     "commonName": "Red Russian",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4830,7 +4830,7 @@
   {
     "id": "285",
     "landscapeCategory": "",
-    "botanicalName": "Kale",
+    "botanicalName": "Brassica oleracea (Acephala Group)",
     "commonName": "Crane Red Ornamental",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4847,7 +4847,7 @@
   {
     "id": "286",
     "landscapeCategory": "",
-    "botanicalName": "Kale",
+    "botanicalName": "Brassica oleracea (Acephala Group)",
     "commonName": "Dino",
     "family": "Brassicaceae",
     "isNative": false,
@@ -4881,7 +4881,7 @@
   {
     "id": "288",
     "landscapeCategory": "",
-    "botanicalName": "Lettuce",
+    "botanicalName": "Lactuca sativa",
     "commonName": "Black Seeded Simpson",
     "family": "Asteraceae",
     "isNative": false,
