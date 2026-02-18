@@ -61,15 +61,8 @@ function PlantDetails() {
           {plant.rootType && <li className="list-group-item"><strong>Root Type:</strong> {plant.rootType}</li>}
         </ul>
         
-        <h2 className="mt-4">Maintenance &amp; Health</h2>
+        <h2 className="mt-4">Notes</h2>
         <ul className="list-group list-group-flush">
-          {plant.pruningNeeds && <li className="list-group-item"><strong>Pruning Needs:</strong> {plant.pruningNeeds}</li>}
-          {plant.pestsAndDiseases && <li className="list-group-item"><strong>Pest and Diseases:</strong> {plant.pestsAndDiseases}</li>}
-        </ul>
-
-        <h2 className="mt-4">Location &amp; Notes</h2>
-        <ul className="list-group list-group-flush">
-          {plant.plantLocation && <li className="list-group-item"><strong>Plant Location:</strong> {plant.plantLocation}</li>}
           {plant.notes && <li className="list-group-item"><strong>Notes:</strong> {plant.notes}</li>}
         </ul>
       </div>
