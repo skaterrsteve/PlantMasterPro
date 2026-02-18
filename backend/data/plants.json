@@ -797,5 +797,381 @@
     "flowerInfo": "Small, inconspicuous, or insignificant flowers. Bloom in April.",
     "fruitInfo": "Inconspicuous fruit.",
     "notes": "Evergreen. Dense foliage. Good for hedges/topiaries. Native to Japan. Shallow root system."
+  },
+  {
+    "id": "48",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Sequoia sempervirens",
+    "commonName": "Coast Redwood",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Sequoia_sempervirens"
+  },
+  {
+    "id": "49",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Sequoiadendron giganteum",
+    "commonName": "Giant Sequoia",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Sequoiadendron_giganteum"
+  },
+  {
+    "id": "50",
+    "landscapeCategory": "Perennial",
+    "botanicalName": "Eschscholzia californica",
+    "commonName": "California Poppy",
+    "isNative": true,
+    "notes": "Native to California. State flower. Wikipedia: https://en.wikipedia.org/wiki/Eschscholzia_californica"
+  },
+  {
+    "id": "51",
+    "landscapeCategory": "Perennial",
+    "botanicalName": "Iris douglasiana",
+    "commonName": "Douglas Iris",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Iris_douglasiana"
+  },
+  {
+    "id": "52",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Diplacus aurantiacus",
+    "commonName": "Sticky Monkeyflower",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Diplacus_aurantiacus"
+  },
+  {
+    "id": "53",
+    "landscapeCategory": "Perennial",
+    "botanicalName": "Aquilegia formosa",
+    "commonName": "California Columbine",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Aquilegia_formosa"
+  },
+  {
+    "id": "54",
+    "landscapeCategory": "Perennial",
+    "botanicalName": "Monardella villosa",
+    "commonName": "Coyote Mint",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Monardella_villosa"
+  },
+  {
+    "id": "55",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Eriogonum fasciculatum",
+    "commonName": "California Buckwheat",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Eriogonum_fasciculatum"
+  },
+  {
+    "id": "56",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Washingtonia filifera",
+    "commonName": "California Fan Palm",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Washingtonia_filifera"
+  },
+  {
+    "id": "57",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Yucca brevifolia",
+    "commonName": "Joshua Tree",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Yucca_brevifolia"
+  },
+  {
+    "id": "58",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Simmondsia chinensis",
+    "commonName": "Jojoba",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Simmondsia_chinensis"
+  },
+  {
+    "id": "59",
+    "landscapeCategory": "Tree/Shrub",
+    "botanicalName": "Juniperus californica",
+    "commonName": "California Juniper",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Juniperus_californica"
+  },
+  {
+    "id": "60",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Parkinsonia florida",
+    "commonName": "Blue Palo Verde",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Parkinsonia_florida"
+  },
+  {
+    "id": "61",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Pinus monophylla",
+    "commonName": "Single-leaf Pinyon",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Pinus_monophylla"
+  },
+  {
+    "id": "62",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Populus fremontii",
+    "commonName": "Fremont Cottonwood",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Populus_fremontii"
+  },
+  {
+    "id": "63",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Fouquieria splendens",
+    "commonName": "Ocotillo",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Fouquieria_splendens"
+  },
+  {
+    "id": "64",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Larrea tridentata",
+    "commonName": "Creosote bush",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Larrea_tridentata"
+  },
+  {
+    "id": "65",
+    "landscapeCategory": "Perennial",
+    "botanicalName": "Sphaeralcea ambigua",
+    "commonName": "Desert mallow",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Sphaeralcea_ambigua"
+  },
+  {
+    "id": "66",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Encelia farinosa",
+    "commonName": "Brittlebush",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Encelia_farinosa"
+  },
+  {
+    "id": "67",
+    "landscapeCategory": "Succulent",
+    "botanicalName": "Agave deserti",
+    "commonName": "Desert agave",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Agave_deserti"
+  },
+  {
+    "id": "68",
+    "landscapeCategory": "Cactus",
+    "botanicalName": "Ferocactus cylindraceus",
+    "commonName": "California barrel cactus",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Ferocactus_cylindraceus"
+  },
+  {
+    "id": "69",
+    "landscapeCategory": "Shrub/Succulent",
+    "botanicalName": "Yucca baccata",
+    "commonName": "Banana yucca",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Yucca_baccata"
+  },
+  {
+    "id": "70",
+    "landscapeCategory": "Shrub/Succulent",
+    "botanicalName": "Yucca schidigera",
+    "commonName": "Mojave yucca",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Yucca_schidigera"
+  },
+  {
+    "id": "71",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Adenostoma fasciculatum",
+    "commonName": "Chamise",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Adenostoma_fasciculatum"
+  },
+  {
+    "id": "72",
+    "landscapeCategory": "Shrub/Tree",
+    "botanicalName": "Amelanchier alnifolia",
+    "commonName": "Western serviceberry",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Amelanchier_alnifolia"
+  },
+  {
+    "id": "73",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Arctostaphylos glauca",
+    "commonName": "Bigberry manzanita",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Arctostaphylos_glauca"
+  },
+  {
+    "id": "74",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Artemisia californica",
+    "commonName": "California sagebrush",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Artemisia_californica"
+  },
+  {
+    "id": "75",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Baccharis pilularis",
+    "commonName": "Coyote brush",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Baccharis_pilularis"
+  },
+  {
+    "id": "76",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Ceanothus gloriosus",
+    "commonName": "Point Reyes ceanothus",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Ceanothus_gloriosus"
+  },
+  {
+    "id": "77",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Chilopsis linearis",
+    "commonName": "Desert willow",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Chilopsis_linearis"
+  },
+  {
+    "id": "78",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Fremontodendron californicum",
+    "commonName": "California flannelbush",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Fremontodendron_californicum"
+  },
+  {
+    "id": "79",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Prunus ilicifolia",
+    "commonName": "Hollyleaf cherry",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Prunus_ilicifolia"
+  },
+  {
+    "id": "80",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Calycanthus occidentalis",
+    "commonName": "Spicebush",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Calycanthus_occidentalis"
+  },
+  {
+    "id": "81",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Carpenteria californica",
+    "commonName": "Bush anemone",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Carpenteria_californica"
+  },
+  {
+    "id": "82",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Peritoma arborea",
+    "commonName": "Bladderpod",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Peritoma_arborea"
+  },
+  {
+    "id": "83",
+    "landscapeCategory": "Perennial",
+    "botanicalName": "Lupinus albifrons",
+    "commonName": "Silver lupine",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Lupinus_albifrons"
+  },
+  {
+    "id": "84",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Symphoricarpos mollis",
+    "commonName": "Creeping snowberry",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Symphoricarpos_mollis"
+  },
+  {
+    "id": "85",
+    "landscapeCategory": "Shrub",
+    "botanicalName": "Vaccinium ovatum",
+    "commonName": "Evergreen huckleberry",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Vaccinium_ovatum"
+  },
+  {
+    "id": "86",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Notholithocarpus densiflorus",
+    "commonName": "Tanoak",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Notholithocarpus_densiflorus"
+  },
+  {
+    "id": "87",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Arbutus menziesii",
+    "commonName": "Pacific madrone",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Arbutus_menziesii"
+  },
+  {
+    "id": "88",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Acer macrophyllum",
+    "commonName": "Bigleaf maple",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Acer_macrophyllum"
+  },
+  {
+    "id": "89",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Sambucus cerulea",
+    "commonName": "Blue elderberry",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Sambucus_cerulea"
+  },
+  {
+    "id": "90",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Aesculus californica",
+    "commonName": "California buckeye",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Aesculus_californica"
+  },
+  {
+    "id": "91",
+    "landscapeCategory": "Tree/Shrub",
+    "botanicalName": "Cercis occidentalis",
+    "commonName": "Western redbud",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Cercis_occidentalis"
+  },
+  {
+    "id": "92",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Juglans californica",
+    "commonName": "California black walnut",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Juglans_californica"
+  },
+  {
+    "id": "93",
+    "landscapeCategory": "Shrub/Tree",
+    "botanicalName": "Corylus cornuta",
+    "commonName": "California hazelnut",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Corylus_cornuta"
+  },
+  {
+    "id": "94",
+    "landscapeCategory": "Tree",
+    "botanicalName": "Quercus lobata",
+    "commonName": "Valley oak",
+    "isNative": true,
+    "notes": "Native to California. Wikipedia: https://en.wikipedia.org/wiki/Quercus_lobata"
   }
 ]
