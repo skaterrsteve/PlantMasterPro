@@ -11,6 +11,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "inquirer": "^9.3.8"
+    "canvas": "^3.2.1",
+    "inquirer": "^9.3.8",
+    "qrcode": "^1.5.4"
   }
 }
